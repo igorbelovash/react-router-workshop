@@ -7,3 +7,4 @@ Sirma Academy
 4. Add react router
     * Setup react-router-dom
     * Add routers
+    * Change links (without page reload)
